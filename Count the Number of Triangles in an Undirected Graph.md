@@ -64,8 +64,10 @@ print("Total number of Triangle in Graph :",
 
 
 OUTPUT
+
 ![image](https://github.com/user-attachments/assets/e63a11d8-bd14-4fb5-a4d4-c5cac487b5c5)
 
 
 RESULT
+
 The program to count the number of triangles in an undirected graph has been implemented and executed successfully.
