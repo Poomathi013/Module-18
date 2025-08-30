@@ -19,7 +19,7 @@ Create a `sptSet[]` array (shortest path tree set) to keep track of vertices who
 **Step 6**: Print the shortest distances from the source to all other vertices.
 
 PYTHON PROGRAM
-
+```
 
 import sys
 
@@ -81,14 +81,10 @@ g.graph = [[0, 4, 0, 0, 0, 0, 0, 8, 0],
 		];
 
 g.dijkstra(0);
-
-
-
-
+```
 OUTPUT
 
 ![image](https://github.com/user-attachments/assets/63437825-4660-42c7-a447-b1d8f828de3d)
-
 
 RESULT
 
