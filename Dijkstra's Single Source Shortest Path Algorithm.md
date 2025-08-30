@@ -86,6 +86,7 @@ OUTPUT
 
 ![image](https://github.com/user-attachments/assets/63437825-4660-42c7-a447-b1d8f828de3d)
 
+
 RESULT
 
 Thus the program for **Dijkstra's single source shortest path algorithm** has been implemented and executed successfully.
