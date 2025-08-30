@@ -91,7 +91,6 @@ g.graph = [ [0, 2, 0, 6, 0],
 
 g.primMST();
 ```
-
 OUTPUT
 
 ![image](https://github.com/user-attachments/assets/d2c16e02-a67e-45d4-b306-8934a1e4ca37)
